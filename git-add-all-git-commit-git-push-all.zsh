@@ -31,7 +31,7 @@ function ga() {
   else
      CMD="git add --all; git commit -m 'Automatically commit'; git push --all"
   fi
-  `$CMD`
+  eval ${CMD}
 }
 
 _gacmd() {
