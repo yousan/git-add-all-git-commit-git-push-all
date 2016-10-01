@@ -1,6 +1,6 @@
 #!/usr/bin/env zsh
 
-# git add --all; git commit -m 'hoge'; git push --all をしてくれるコマンド
+# git add --all; git commit -m 'first commit'; git push --allgit add --all; git commit -m 'first commit'; git push --all をしてくれるコマンド
 
 # Thanks @link http://qiita.com/mollifier/items/eba71bc33bb7e3b76233
 # Thanks @link http://qiita.com/petitviolet/items/b1e8b5139169dd530919
