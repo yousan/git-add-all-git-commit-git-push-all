@@ -7,6 +7,9 @@
 # Thanks @link http://qiita.com/mollifier/items/6fdeff2750fe80f830c8
 
 # Usage: ga [-m|--message message]
+
+unalias ga
+
 function ga() {
   local -A opthash
   local MESSAGE
